@@ -1,3 +1,6 @@
 [submodule "is.illuminati.block.spyros"]
 	path = is.illuminati.block.spyros
 	url = git@github.com:bluebottle/is.illuminati.block.spyros.git
+[submodule "is.illuminati.block.hephaestus"]
+	path = is.illuminati.block.hephaestus
+	url = git@github.com:bluebottle/is.illuminati.block.hephaestus.git
